@@ -16,6 +16,7 @@ let scu = 'https://url.v1.mk/sub';  // 订阅转换地址
 // 默认优选域名列表
 const directDomains = [
     { name: "cloudflare.182682.xyz", domain: "cloudflare.182682.xyz" },
+    { domain: "saas.sin.fan" },
     { domain: "cf.877774.xyz" },
     { domain: "ct.877774.xyz" },
     { domain: "asia.877774.xyz" },
